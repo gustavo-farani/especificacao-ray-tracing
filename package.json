@@ -1,0 +1,22 @@
+{
+  "name": "raytracing",
+  "version": "1.0.0",
+  "description": "Especificação do projeto ray-tracing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavo-farani/especificacao-ray-tracing.git"
+  },
+  "author": "Gustavo Farani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavo-farani/especificacao-ray-tracing/issues"
+  },
+  "homepage": "https://github.com/gustavo-farani/especificacao-ray-tracing#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
